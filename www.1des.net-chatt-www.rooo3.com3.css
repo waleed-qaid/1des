@@ -1,14 +1,14 @@
 ul.nav.nav-tabs.fl li a {
-    background-color: #b31f30;
+    background-color: #9e4a77;
 }
 
 .label-primary, .btn-primary {
-    background-color: #b31f30!important;
+    background-color: #9e4a77!important;
 }
 
 
 .bg {
-    background-color: #b31f30;
+    background-color: #9e4a77;
 }
 
 
@@ -25,8 +25,8 @@ div#tlogins ::-webkit-scrollbar-button {
 div#tlogins ::-webkit-scrollbar-thumb {
     background: 0 0;
     border: 71px #fff;
-    border-radius: 31px;
-    background-image: radial-gradient(farthest-corner,#b31f30 0,#b31f30 49%,#b31f30 50%,#b31f30 100%)!important;
+    border-radius: 3px;
+    background-image: radial-gradient(farthest-corner,#9e4a77 0,#9e4a77 49%,#9e4a77 50%,#9e4a77 100%)!important;
 }
 
 div#tlogins ::-webkit-scrollbar-thumb:hover {
@@ -40,7 +40,7 @@ div#tlogins ::-webkit-scrollbar-thumb:active {
 div#tlogins ::-webkit-scrollbar-track {
     background: #fff;
     border: 65px #fff;
-    border-radius: 34px
+    border-radius: 3px
 }
 
 #des1,.des2 {
@@ -49,11 +49,11 @@ div#tlogins ::-webkit-scrollbar-track {
 
 #des0 {
 	transform:matrix(1, 0, 0, 1, 63, -153);
-	background-color: #b31f30;
+	background-color: #9e4a77;
     position: absolute;
     width: 50%!important;
     height: 18px;
-    border-radius: 25px!important;
+    border-radius: 3px!important;
     left: -50px;
     font-size: 10px!important;
     color: #fff;
@@ -77,8 +77,8 @@ div#tlogins ::-webkit-scrollbar-corner {
 #des3 {
 	padding: 5px 0!important;
 	text-align: center!important;
-	background-color: #b31f30!important;
-	border-color: #b31f30;
+	background-color: #9e4a77!important;
+	border-color: #9e4a77;
 }
 
 .des2 {
